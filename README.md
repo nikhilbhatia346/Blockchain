@@ -21,7 +21,21 @@ At the end, we want to expose an api that returns the best time for bridging tok
 
 This repo has some of the code snippets you need for being able to successfully complete this project. Some of the work will be split in weeks so that you can easily follow allow and do the work needed. Here is the rough outline of how we will progress. Each week, we build on the work from the previous week. The code for week `x` is saved in the branch called `felix-week-x`
 
-**Workshop 1**: Introductions - Get to know the Build Fellow and other students, ask questions about the project requirements, prepare your workspace.
+:point_right: :point_right: :point_right: **Workshop 1**: `Introductions` - Get to know the Build Fellow and other students, ask questions about the project requirements, prepare your workspace.
+
+https://openavenuesfoundation.sharepoint.com/:p:/r/sites/fellows/Shared%20Documents/4-%20Build%20Projects/Build%20Fellows%20Workspace/Felix%20Madutsa/BP%20-%2007,%202024%20-%20Workspace%20with%20students/Presentations/Week%201%20-%20Introductions.pptx?d=we8829585ceb14746aef0e8d4ac297c72&csf=1&web=1&e=y4GQNK
+
+Optional Readings:
+
+- Blockchain 101:
+  - Blockchain 101 : https://www.youtube.com/watch?v=_160oMzblY8
+  - What is a Blockchain https://www.youtube.com/watch?v=kHybf1aC-jE
+- Tokens:
+  - https://www.coinbase.com/learn/crypto-basics/what-is-a-token
+  - Crypto Coin vs Token: https://www.youtube.com/watch?v=422HORNUfkU
+  - How To Create a Token: https://www.youtube.com/watch?v=8N0lLN26BIE
+- Token Trading:
+  - Exploring the following DEXes: Uniswap ([app.uniswap.org](https://app.uniswap.org/swap))
 
 **Workshop 2**: Project setup and tools – Setup the project and get familiar with the tools being used.
 
