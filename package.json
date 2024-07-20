@@ -1,0 +1,19 @@
+{
+  "name": "oaf-intents",
+  "version": "1.0.0",
+  "description": "**For this project, we will design and implement a multichain web3 application for buying and selling tokens using a general-purpose intent protocol.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}
